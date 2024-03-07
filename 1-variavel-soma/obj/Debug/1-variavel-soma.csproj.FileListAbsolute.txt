@@ -1,0 +1,7 @@
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\bin\Debug\1-variavel-soma.exe.config
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\bin\Debug\1-variavel-soma.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\bin\Debug\1-variavel-soma.pdb
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\obj\Debug\1-variavel-soma.csproj.AssemblyReference.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\obj\Debug\1-variavel-soma.csproj.CoreCompileInputs.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\obj\Debug\1-variavel-soma.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\1-variavel-soma\obj\Debug\1-variavel-soma.pdb

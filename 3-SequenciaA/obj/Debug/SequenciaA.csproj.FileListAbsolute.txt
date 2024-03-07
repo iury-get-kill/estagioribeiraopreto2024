@@ -1,0 +1,14 @@
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\bin\Debug\SequenciaA.exe.config
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\bin\Debug\SequenciaA.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\bin\Debug\SequenciaA.pdb
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\obj\Debug\SequenciaA.csproj.AssemblyReference.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\obj\Debug\SequenciaA.csproj.CoreCompileInputs.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\obj\Debug\SequenciaA.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\SequenciaA\obj\Debug\SequenciaA.pdb
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\bin\Debug\SequenciaA.exe.config
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\bin\Debug\SequenciaA.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\bin\Debug\SequenciaA.pdb
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\obj\Debug\SequenciaA.csproj.AssemblyReference.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\obj\Debug\SequenciaA.csproj.CoreCompileInputs.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\obj\Debug\SequenciaA.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\3-SequenciaA\obj\Debug\SequenciaA.pdb

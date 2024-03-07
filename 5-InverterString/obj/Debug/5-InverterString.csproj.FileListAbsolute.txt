@@ -1,0 +1,7 @@
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\bin\Debug\5-InverterString.exe.config
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\bin\Debug\5-InverterString.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\bin\Debug\5-InverterString.pdb
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\obj\Debug\5-InverterString.csproj.AssemblyReference.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\obj\Debug\5-InverterString.csproj.CoreCompileInputs.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\obj\Debug\5-InverterString.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\5-InverterString\obj\Debug\5-InverterString.pdb

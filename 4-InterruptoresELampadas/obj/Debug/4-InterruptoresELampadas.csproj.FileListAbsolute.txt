@@ -1,0 +1,7 @@
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\bin\Debug\4-InterruptoresELampadas.exe.config
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\bin\Debug\4-InterruptoresELampadas.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\bin\Debug\4-InterruptoresELampadas.pdb
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\obj\Debug\4-InterruptoresELampadas.csproj.AssemblyReference.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\obj\Debug\4-InterruptoresELampadas.csproj.CoreCompileInputs.cache
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\obj\Debug\4-InterruptoresELampadas.exe
+C:\Users\Micro\OneDrive\Área de Trabalho\4-InterruptoresELampadas\obj\Debug\4-InterruptoresELampadas.pdb
